@@ -1,7 +1,5 @@
 # us-and-money
-An easy to use expense tracker[us-and-money (1).html](https://github.com/user-attachments/files/26638413/us-and-money.1.html)
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
